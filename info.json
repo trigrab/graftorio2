@@ -1,7 +1,7 @@
 {
-  "name": "graftorio2",
-  "version": "0.0.15",
-  "title": "graftorio2",
+  "name": "graftorio2-tr",
+  "version": "0.0.16",
+  "title": "graftorio2-tr",
   "author": "remijouannet",
   "description": "visualize metrics from your factorio game in grafana",
   "homepage": "https://github.com/remijouannet/graftorio2",
