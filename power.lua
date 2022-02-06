@@ -134,7 +134,7 @@ local lib = {
   end,
 
   on_load = function()
-    script_data = global.power_data or script_data
+    global.script_data = global.power_data or script_data
   end,
   
   on_init = function()
